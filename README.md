@@ -1,1 +1,3 @@
-# Arabic Dialect Identification
+# Arabic Dialect Identification 
+
+The Arabic dialect identification project is a machine learning project that aims to automatically identify the dialect of spoken or written Arabic text. This project utilizes various machine learning models, including BERT pre-trained model, to predict the dialect of a given input. Additionally, the project uses ensemble learning to improve the performance of the models by combining the predictions of multiple models. This approach helps to increase the accuracy and robustness of the dialect identification system, making it more reliable and efficient in real-world applications.
